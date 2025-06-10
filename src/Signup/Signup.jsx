@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import './signup.css' 
+import './Signup.css' 
 
 const SignupForm = () => {
   const [isLogin, setIsLogin] = useState(true); // Toggle between Login/Signup
